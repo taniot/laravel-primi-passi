@@ -1,10 +1,11 @@
 @extends('layouts.app')
 
 @section('title')
-    Home Page
+    Contact Page
 @endsection
 
 @section('main')
-    <p>Sono la nostra home</p>
+    <main>
+        <p>Per contatti, contattaci</p>
+    </main>
 @endsection
-
